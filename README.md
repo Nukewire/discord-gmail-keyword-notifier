@@ -31,7 +31,7 @@ pip install imaplib2 email requests
 Clone the repository or download the script files:
 
 ```bash
-git clone https://github.com/yourusername/discord-gmail-keyword-notifier.git
+git clone https://github.com/Nukewire/discord-gmail-keyword-notifier.git
 cd discord-gmail-keyword-notifier
 ```
 
